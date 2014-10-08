@@ -1,0 +1,30 @@
+{
+  "name": "line-memes",
+  "description": "Collection of memes for LINE stickers",
+  "version": "1.0.0",
+  "homepage": "https://github.com/twolfson/line-memes",
+  "author": {
+    "name": "Todd Wolfson",
+    "email": "todd@twolfson.com",
+    "url": "http://twolfson.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twolfson/line-memes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/twolfson/line-memes/issues"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-watch": "~0.4.0"
+  },
+  "keywords": [],
+  "private": true
+}
